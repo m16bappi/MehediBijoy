@@ -19,7 +19,8 @@ MehediBijoy/MehediBijoy is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-### Top Technologies
+
+<h2 align="center">Top Technologies</h2>
 
 <!-- TODO: Make technologies links takes you to repositories -->
 <p align="center">
@@ -46,6 +47,9 @@ You can click the Preview link to take a look at your changes.
     </a>
     <a href="#">
         <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=e1e5eb&logo=Bootstrap&logoColor=7952B3"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-semantic_ui-35BDB2?style=for-the-badge&labelColor=e1e5eb&logo=semantic-ui-react&logoColor=35BDB2"/>
     </a>
 </p>
 
