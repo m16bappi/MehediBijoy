@@ -22,16 +22,32 @@ You can click the Preview link to take a look at your changes.
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=e1e5eb&logo=python&logoColor=3776AB)](#)
-[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=e1e5eb&logo=django&logoColor=092E20)](#)
-[![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=e1e5eb&logo=react&logoColor=61DBFB)](#)
-[![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=e1e5eb&logo=redux&logoColor=764ABC)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=e1e5eb&logo=javascript&logoColor=F0DB4F)](#)
-[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=e1e5eb&logo=Heroku&logoColor=430098)](#)
-[![Material-ui Badge](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&labelColor=e1e5eb&logo=Material-UI&logoColor=0081CB)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=e1e5eb&logo=Bootstrap&logoColor=7952B3)](#)
-
-
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=e1e5eb&logo=python&logoColor=3776AB"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=e1e5eb&logo=django&logoColor=092E20"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=e1e5eb&logo=react&logoColor=61DBFB"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=e1e5eb&logo=redux&logoColor=764ABC"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=e1e5eb&logo=javascript&logoColor=F0DB4F"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=e1e5eb&logo=Heroku&logoColor=430098"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&labelColor=e1e5eb&logo=Material-UI&logoColor=0081CB"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=e1e5eb&logo=Bootstrap&logoColor=7952B3"/>
+    </a>
+</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediBijoy&show_icons=true&theme=radical"/>
