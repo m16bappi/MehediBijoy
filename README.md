@@ -12,9 +12,14 @@ You can click the Preview link to take a look at your changes.
 ## Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![django Badge](https://img.shields.io/badge/-django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
+[![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Redux Badge](https://img.shields.io/badge/-redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![Material-ui Badge](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&labelColor=black&logo=Material-UI&logoColor=0081CB)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=7952B3)](#)
+[![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&labelColor=black&logo=Heroku&logoColor=430098)](#)
 
 
 
