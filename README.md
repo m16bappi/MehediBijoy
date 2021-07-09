@@ -1,3 +1,10 @@
+# Hi there, I'm Mehedi Hasan 👋
+
+<p align="left">
+    I am a full-stack web developer with an extensive programming background and working on Django web framework, Django REST framework, ReactJS, Redux, HTML, CSS, and Bootstrap. Last two years, I developed projects such as e-commerce, social Blogs, etc. Also deployed the Heroku server. However, I can assure you that I am a quick learner, adaptive, and energetic person.
+</p>
+
+
 <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
