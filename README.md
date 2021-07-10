@@ -1,31 +1,45 @@
-# Hi there, I'm Mehedi Hasan 👋
-
-<p align="left">
-    I am a full-stack web developer with an extensive programming background and working on Django web framework, Django REST framework, ReactJS, Redux, HTML, CSS, and Bootstrap. Last two years, I developed projects such as e-commerce, social Blogs, etc. Also deployed the Heroku server. However, I can assure you that I am a quick learner, adaptive, and energetic person.
-</p>
-
-
-<img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
-[![instragram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://facebook.com)
-[![python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-
-- 👋 Hi, I’m @MehediBijoy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 MehediBijoy/MehediBijoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+# Hi there, I'm <a href="https://mehedibappi.netlify.app/" target="_blank">Mehedi Hasan</a> 👋
+
+<p align="left">
+    I am a full-stack web developer with an extensive programming background and working on Django web framework, Django REST framework, ReactJS, Redux, HTML, CSS, and Bootstrap. Last two years, I developed projects such as e-commerce, social Blogs, etc. Also deployed the Heroku server. However, I am a quick learner, adaptive, and energetic person.
+</p>
+
+<br/>
+
+<h2>current activities</h2>
+
+- 👨‍💻 I'm currently working on ecommerce-project and online-classroom-platform.
+- 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django</a> <a href="https://reactjs.org/" target="_blank">React.JS</a>
+- 👀 I’m interested in learn new technologies.
+- 📫 You can reach me on email: <a href="mehedibappi34@gmail.com">mehedibappi34@gmail.com</a>
+
+<br/><br/>
+
+<div align="center">
+    <h2>connected with social platforms</h2>
+    <a href="https://m.me/MehediBUBT" target="_blank">
+        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
+    </a>
+    <a href="https://wa.link/uyfyiq" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
+    </a>
+    <a href="mehedibubt34@gmail.com" target="_blank"> 
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+    </a>
+    <a href="https://github.com/MehediBijoy" target="_blank"> 
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> 
+    </a>
+    <a href="https://www.linkedin.com/in/mehedihbijoy/" target="_blank"> 
+        <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    </a>
+</div>
+
+<br/><br/>
 
 <h2 align="center">Top Technologies</h2>
 
@@ -60,16 +74,17 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediBijoy&show_icons=true&theme=radical"/>
-</p>
+<br/><br/>
 
-<p align="center">
-    <a href="https://github.com/MehediBijoy/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mehedi Bijoy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MehediBijoy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MehediBijoy&count_private=true&show_icons=true&theme=radical"/>
-</p>
+<div align="center" width="500px">
+    <h2>GitHub Status</h2>
+    <p>
+        <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediBijoy&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&&theme=radical" />
+    </p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=MehediBijoy&count_private=true&show_icons=true&theme=algolia&hide_border=true"/>
+    </p>
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehediBijoy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </p>
+</div>
