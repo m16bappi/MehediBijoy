@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 
-<h2>current activities</h2>
+<h2>Current activities</h2>
 
 - 👨‍💻 I'm currently working on ecommerce-project and online-classroom-platform.
 - 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django</a> <a href="https://reactjs.org/" target="_blank">React.JS</a>
