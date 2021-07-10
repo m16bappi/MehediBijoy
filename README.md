@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center" width="500px">
     <h2>GitHub Status</h2>
     <p>
-        <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediBijoy&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediBijoy&hide=html&hide_title=false&hide_border=true&layout=compact&langs_count=8&&theme=radical&card_width=445" />
     </p>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=MehediBijoy&count_private=true&show_icons=true&theme=algolia&hide_border=true"/>
