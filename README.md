@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <br/><br/>
 
 <div align="center">
-    <h2>connected with social platforms</h2>
+    <h2>Connected with social platforms</h2>
     <a href="https://m.me/MehediBUBT" target="_blank">
         <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
     </a>
