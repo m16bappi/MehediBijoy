@@ -22,8 +22,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
     <h2>Connected with social platforms</h2>
-    <a href="https://m.me/MehediBUBT" target="_blank">
-        <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /> 
+    <a href="https://facebook.com/MehediBUBT" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-00B2FF?style=for-the-badge&logo=facebook&logoColor=white" /> 
     </a>
     <a href="https://wa.link/uyfyiq" target="_blank">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> 
