@@ -72,6 +72,9 @@ You can click the Preview link to take a look at your changes.
     <a href="#">
         <img src="https://img.shields.io/badge/-semantic_ui-35BDB2?style=for-the-badge&labelColor=e1e5eb&logo=semantic-ui-react&logoColor=35BDB2"/>
     </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&labelColor=e1e5eb&logo=sass&logoColor=CC6699"/>
+    </a>
 </p>
 
 <br/><br/>
