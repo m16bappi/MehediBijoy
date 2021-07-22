@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <h2>Current activities</h2>
 
 - 👨‍💻 I'm currently working on ecommerce-project and online-classroom-platform.
-- 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django</a> <a href="https://reactjs.org/" target="_blank">React.JS</a>
+- 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django</a>, <a href="https://reactjs.org/" target="_blank">React.JS</a>
 - 👀 I’m interested in learn new technologies.
 - 📫 You can reach me on email: <a href="mehedibappi34@gmail.com">mehedibappi34@gmail.com</a>
 
@@ -77,6 +77,29 @@ You can click the Preview link to take a look at your changes.
     </a>
 </p>
 
+<br/><br/>
+
+<h2 align="center">Editors and Tools</h2>
+<p align="center">
+    <a href="#">
+        <img src="https://img.shields.io/badge/-vs_code-007ACC?style=for-the-badge&labelColor=e1e5eb&logo=visual-studio-code&logoColor=007ACC"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-pycharm-000000?style=for-the-badge&labelColor=e1e5eb&logo=pycharm&logoColor=000000"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-atom-66595C?style=for-the-badge&labelColor=e1e5eb&logo=atom&logoColor=66595C"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-postgresql-4169E1?style=for-the-badge&labelColor=e1e5eb&logo=postgresql&logoColor=4169E1"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-adobe_xd-FF61F6?style=for-the-badge&labelColor=e1e5eb&logo=adobe-xd&logoColor=FF61F6"/>
+    </a>
+    <a href="#">
+        <img src="https://img.shields.io/badge/-google_fonts-4285F4?style=for-the-badge&labelColor=e1e5eb&logo=google-fonts&logoColor=4285F4"/>
+    </a>
+</p>
 <br/><br/>
 
 <div align="center" width="500px">
